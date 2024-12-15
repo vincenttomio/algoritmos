@@ -17,7 +17,7 @@ A disciplina aborda os fundamentos de algoritmos e estruturas de dados, incluind
 ## 🔍 Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/algoritmos-ci055.git
+   git clone https://github.com/vincenttomio/algoritmos.git
    ```
 2. Acesse o diretório desejado para visualizar os códigos ou materiais de estudo.
 3. Utilize o compilador **Free Pascal** ou o portal **FARMALG** para executar os códigos.
